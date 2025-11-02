@@ -1,0 +1,10 @@
+# Ignorer les fichiers sensibles
+.env
+.streamlit/secrets.toml
+
+# Ignorer les dossiers système et caches
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

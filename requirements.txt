@@ -1,0 +1,8 @@
+streamlit
+pillow
+transformers
+torch
+requests
+dotenv
+openai
+plotly
