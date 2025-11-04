@@ -1,7 +1,7 @@
 # 🍽️ NutriAI — AI-First Meal Estimation (Technical Notes for Reviewers)
-
+---
 Please access the app through the following link:<br>
-https://nutriai-ai64vt6ahikabfkdjrbpjk.streamlit.app/
+https://nutriai-ai64vt6ahikabfkdjrbpjk.streamlit.app/<br>
 The password is demo1234
 ---
 
