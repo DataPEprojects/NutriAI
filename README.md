@@ -1,9 +1,8 @@
 # 🍽️ NutriAI — AI-First Meal Estimation (Technical Notes for Reviewers)
 
-> **Audience:** instructors & teammates  
-> **Focus:** how the project leverages AI systems end‑to‑end (vision → retrieval → reasoning), design choices, guardrails, and limitations.  
-> **Note:** This document intentionally avoids deployment details, cloud configs, and passwords.
-
+Please access the app through the following link:
+https://nutriai-ai64vt6ahikabfkdjrbpjk.streamlit.app/
+The password is demo1234
 ---
 
 ## 1) Executive Summary
